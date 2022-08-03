@@ -1,0 +1,164 @@
+{
+	"acknowledg": {
+		"src/main/java/hello.txt": [
+			15
+		]
+	},
+	"alpaca": {
+		"src/main/java/hello.txt": [
+			29
+		]
+	},
+	"and": {
+		"src/main/java/hello.txt": [
+			2
+		]
+	},
+	"b": {
+		"src/main/java/hello.txt": [
+			7
+		]
+	},
+	"c": {
+		"src/main/java/hello.txt": [
+			10
+		]
+	},
+	"correspond": {
+		"src/main/java/hello.txt": [
+			13
+		]
+	},
+	"ebook": {
+		"src/main/java/hello.txt": [
+			34
+		]
+	},
+	"f": {
+		"src/main/java/hello.txt": [
+			8
+		]
+	},
+	"gutenberg": {
+		"src/main/java/hello.txt": [
+			33
+		]
+	},
+	"hidden": {
+		"src/main/java/hello.txt": [
+			28
+		]
+	},
+	"how": {
+		"src/main/java/hello.txt": [
+			23
+		]
+	},
+	"narwhal": {
+		"src/main/java/hello.txt": [
+			31,
+			32
+		]
+	},
+	"of": {
+		"src/main/java/hello.txt": [
+			3
+		]
+	},
+	"particular": {
+		"src/main/java/hello.txt": [
+			11
+		]
+	},
+	"practic": {
+		"src/main/java/hello.txt": [
+			30
+		]
+	},
+	"rfc": {
+		"src/main/java/hello.txt": [
+			16
+		]
+	},
+	"the": {
+		"src/main/java/hello.txt": [
+			1
+		]
+	},
+	"to": {
+		"src/main/java/hello.txt": [
+			4
+		]
+	},
+	"understand": {
+		"src/main/java/hello.txt": [
+			12
+		]
+	},
+	"understood": {
+		"src/main/java/hello.txt": [
+			14
+		]
+	},
+	"what": {
+		"src/main/java/hello.txt": [
+			19
+		]
+	},
+	"when": {
+		"src/main/java/hello.txt": [
+			20
+		]
+	},
+	"where": {
+		"src/main/java/hello.txt": [
+			21
+		]
+	},
+	"whi": {
+		"src/main/java/hello.txt": [
+			22
+		]
+	},
+	"who": {
+		"src/main/java/hello.txt": [
+			18
+		]
+	},
+	"woodchuck": {
+		"src/main/java/hello.txt": [
+			17
+		]
+	},
+	"x": {
+		"src/main/java/hello.txt": [
+			9
+		]
+	},
+	"your": {
+		"src/main/java/hello.txt": [
+			24,
+			25
+		]
+	},
+	"yourself": {
+		"src/main/java/hello.txt": [
+			26
+		]
+	},
+	"yourselv": {
+		"src/main/java/hello.txt": [
+			27
+		]
+	},
+	"ø": {
+		"src/main/java/hello.txt": [
+			5
+		]
+	},
+	"δ": {
+		"src/main/java/hello.txt": [
+			6
+		]
+	}
+}
